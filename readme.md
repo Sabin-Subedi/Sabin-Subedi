@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Sapkota</h1>
+<h1 align="center">Hi 👋, I'm Sabin Subedi</h1>
 <h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript and Web Technology.</h3>
 
 [![Linkedin
