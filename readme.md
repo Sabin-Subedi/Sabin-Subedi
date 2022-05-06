@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sabin Subedi</h1>
-<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript and Web Technology.</h3>
+<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript<br /> and Web Technology.</h3>
 
+<p align='center'>
 [![Linkedin
 Badge](https://img.shields.io/badge/-SabinSubedi-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-subedi-69517519a/)
 [![Instagram
 Badge](https://img.shields.io/badge/-sabinsubedi87-ff69b4?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sabin_subedi87/)
 [![Mail
 Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sabinsubedi125@gmail.com)
+</p>
 
 <!-- TODO: Add last video link -->
 
