@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabin Subedi</h1>
-<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript<br /> and Web Technology.</h3>
+<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript, Flutter<br /> and Web Technology.</h3>
 
 [![Linkedin
 Badge](https://img.shields.io/badge/-SabinSubedi-informational?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-subedi-69517519a/)
