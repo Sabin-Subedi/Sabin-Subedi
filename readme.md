@@ -43,6 +43,8 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 <br />
 
 ### Github Stats
-
+<!-- 
 ![Ipenywis's github
-stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_private=true&theme=tokyonight)
+stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_private=true&theme=tokyonight) -->
+
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabin-Subedi&theme=radical" alt="Sabin-Subedi" />
