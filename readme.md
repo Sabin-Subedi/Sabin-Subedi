@@ -13,7 +13,7 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 
 - 🔭 I’m currently working at [@khalti.](https://www.linkedin.com/company/khalti-digital-wallet/mycompany/)
 
-- 🌱 I’m currently learning **JavaScript and Flutter.**
+- 🌱 I’m currently learning **JavaScript.**
 - ⚡ Fun fact: I can solve Rubik's Cube under **20 seconds**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabin-Subedi](https://github.com/Sabin-Subedi)
