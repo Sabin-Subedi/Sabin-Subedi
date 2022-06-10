@@ -30,6 +30,7 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MONGODB-00EF8M?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/VUEJS-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
