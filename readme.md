@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabin Subedi</h1>
-<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript, Flutter<br /> and Web Technology.</h3>
+<h3 align="center">A passionate learner from Nepal. Interested in Javascript, Typescript, <br /> and Web Technologies.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Sabin-Subedi&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin
