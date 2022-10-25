@@ -40,6 +40,7 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 ![](https://img.shields.io/badge/-nextjs-000?style=for-the-badge&logo=nextdotjs&&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
 
 <br />
 
