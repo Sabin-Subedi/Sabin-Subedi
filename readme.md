@@ -50,5 +50,6 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_private=true&theme=tokyonight) -->
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabin-Subedi&theme=tokyonight" alt="Sabin-Subedi" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabin-Subedi&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabin-Subedi&layout=compact)
+
 
