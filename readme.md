@@ -52,6 +52,6 @@ stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_pr
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabin-Subedi&theme=tokyonight" alt="Sabin-Subedi" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
