@@ -52,6 +52,6 @@ stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_pr
 <div>
 <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabin-Subedi&theme=tokyonight" alt="Sabin-Subedi" />
 &nbsp;&nbsp;
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabin-Subedi&layout=compact" alt="Sabin Subedi Language Stat" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sabin-Subedi&layout=compact&theme=tokyonight" alt="Sabin Subedi Language Stat" />
 </div>
 
