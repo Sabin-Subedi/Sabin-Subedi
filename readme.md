@@ -43,10 +43,11 @@ Badge](https://img.shields.io/badge/-sabin%20subedi-red?style=flat&labelColor=c0
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 
 <br />
 
-### Github Stats
+### Github Stats`
 <!-- 
 ![Ipenywis's github
 stats](https://github-readme-stats.vercel.app/api?username=Sabin-Subedi&count_private=true&theme=tokyonight) -->
